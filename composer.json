@@ -1,5 +1,5 @@
 {
-    "name": "alemachado/TemplateEngineFactory",
+    "name": "alemachado/template-engine-factory",
     "type": "pw-module",
     "description": "Adds a Twig render method to Page",
     "keywords": [ "Processwire", "module", "Template Engine Factory"],
