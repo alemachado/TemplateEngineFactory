@@ -1,0 +1,17 @@
+{
+    "name": "alemachado/TemplateEngineFactory",
+    "type": "pw-module",
+    "description": "Adds a Twig render method to Page",
+    "keywords": [ "Processwire", "module", "Template Engine Factory"],
+    "homepage": "https://github.com/alemachado/TemplateEngineFactory",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Assets Contributors",
+            "homepage": "https://github.com/wanze/TemplateEngineFactory/network/memberss"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
