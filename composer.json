@@ -1,10 +1,13 @@
 {
+    "config": {
+        "vendor-dir": "vendor/ProcessWire/modules"
+    },
     "name": "alemachado/TemplateEngineFactory",
     "type": "pw-module",
     "description": "Adds a Twig render method to Page",
     "keywords": [ "Processwire", "module", "Template Engine Factory"],
     "homepage": "https://github.com/alemachado/TemplateEngineFactory",
-    "license": "BSD-2-Clause",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Assets Contributors",
